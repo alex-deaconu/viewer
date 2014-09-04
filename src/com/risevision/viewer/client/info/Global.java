@@ -7,7 +7,7 @@ package com.risevision.viewer.client.info;
 import java.util.Date;
 
 public class Global {
-	public static final String VIEWER_VERSION = "1-06-032";
+	public static final String VIEWER_VERSION = "1-06-033";
 	
 //	public static final String GADGET_SERVER_URL = "http://rvagadgets.appspot.com/";
 	public static final String GADGET_SERVER_URL = "http://www-open-opensocial.googleusercontent.com/gadgets/ifr";
